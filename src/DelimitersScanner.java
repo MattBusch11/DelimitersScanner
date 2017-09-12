@@ -1,5 +1,6 @@
 import java.util.Scanner;
 /**
+ * @author: mbb23738@email.vccs.edu
  * Author: Matt Busch
  * Date: 9/11/17
  * Purpose: To demonstrate using delimiters in a Scanner
